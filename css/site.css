@@ -57,7 +57,9 @@ body {
 #intro {
   background: url("https://raw.githubusercontent.com/sathisannadurai/sathisannadurai.github.io/master/media/intro-bg.jpeg") no-repeat center center;
   background-size: cover;
-  color: #fff; }
+  color: #fff; 
+  background-attachment: fixed;
+}
 
 #aboutme {
   padding-top: 5%;
