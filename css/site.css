@@ -55,7 +55,7 @@ body {
   line-height: 1.6; }
 
 #intro {
-  background: url("https://github.com/sathisannadurai/sathisannadurai.github.io/blob/master/media/intro-bg.jpeg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/sathisannadurai/sathisannadurai.github.io/master/media/intro-bg.jpeg") no-repeat center center;
   background-size: cover;
   color: #fff; }
 
